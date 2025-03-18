@@ -10,20 +10,19 @@
 🔍 Regex (re) – To check password strength
 🎲 Random (string & random) – To generate a strong password
 🖱 PyAutoGUI – To open and type into Notepad
+
 📦 Installation
 🔹 Clone this repository
-
 bash
 git clone https://github.com/your-username/password-strength-checker.git
 cd password-strength-checker
+
 🔹 Install required dependencies
-
-bash
 pip install pyautogui
-🔹 Run the script
 
-bash
+🔹 Run the script
 python password_checker.py
+
 📝 Usage
 1️⃣ Run the script and enter a password when prompted.
 2️⃣ If the password is weak, a new strong password will be generated.
