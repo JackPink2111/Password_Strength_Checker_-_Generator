@@ -10,6 +10,7 @@
 ✅ User-Friendly & Fast – Simple and efficient CLI-based tool.
 
 
+
 🔧 Technologies Used
 
 🐍 Python
@@ -19,6 +20,7 @@
 🎲 Random (string & random) – To generate a strong password
 
 🖱 PyAutoGUI – To open and type into Notepad
+
 
 
 📦 Installation
@@ -38,6 +40,7 @@ pip install pyautogui
 🔹 Run the script
 
 python password_checker.py
+
 
 
 📝 Usage
